@@ -1,5 +1,5 @@
 # TinOs
-
+a open source project operating system
 
 
 
